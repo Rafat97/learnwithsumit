@@ -74,11 +74,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenClaw VPS Setup Bangla Tutorial &lpar;Self-Hosted AI Agent&rpar; | ClawdBot/MoltBot](https://www.youtube.com/watch?v=OAutRvlPAmU)
 - [Next.js Deploy করুন নিজের VPS এ | Coolify Bangla Tutorial 2026](https://www.youtube.com/watch?v=hl3LNBpKVRc)
 - [Master AI Coding: Copy-Pasting বন্ধ করে Engineering করুন &lpar;2026 Guide&rpar;](https://www.youtube.com/watch?v=gA-4fA_7kc8)
 - [LAST CALL TO ENROLL IN REACTIVE ACCELERATOR](https://www.youtube.com/watch?v=SUdCCIng4e0)
 - [You’ll Realize This Video Was Right — Two Years Later!](https://www.youtube.com/watch?v=67sqj-FZUcc)
-- [How we do Project Analysis in Reactive Accelerator Course](https://www.youtube.com/watch?v=IkTUH523pVY)
 <!-- YOUTUBE:END -->
 
 #### Business
