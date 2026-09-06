@@ -74,11 +74,11 @@ I'm Sumit Saha (Dhaka, Bangladesh), a Bangladeshi <img src="assets/bangladesh.pn
 ### 📺 &emsp;Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Reactive Accelerator কোর্সটি কেন করবেন?এনরোলমেন্ট চলছে](https://www.youtube.com/watch?v=o-WbuOEmD0A)
+- [Reactive Accelerator Course - এনরোলমেন্ট শুরু হচ্ছে](https://www.youtube.com/watch?v=Dl4BD_emrwo)
 - [IndexedDB Tutorial in Bangla - ব্রাউজার স্টোরেজ ও JavaScript Database](https://www.youtube.com/watch?v=jmEhJ2bCt5c)
 - [Database Lock কী? Shared vs Exclusive Lock](https://www.youtube.com/shorts/Yfyg1yNzLVs)
 - [New HTTP QUERY Method &lpar;RFC 10008&rpar; Explained in Bangla | Stop Using POST for Search](https://www.youtube.com/watch?v=duzIkACRny8)
-- [কোড না লিখেই Data Structure ও Algorithm শিখুন গল্পের মতো করে! | DSA tutorial in Bangla](https://www.youtube.com/watch?v=4cm9PMNikXM)
-- [Hashing আর Encryption কি একই জিনিস? | Cybersecurity in Bangla](https://www.youtube.com/shorts/T6M6JEJghGE)
 <!-- YOUTUBE:END -->
 
 #### Business
